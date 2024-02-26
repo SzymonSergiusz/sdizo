@@ -1,3 +1,6 @@
 [submodule "sdizo1"]
 	path = sdizo1
 	url = https://github.com/SzymonSergiusz/sdizo1
+[submodule "sdizo2"]
+	path = sdizo2
+	url = https://github.com/SzymonSergiusz/sdizo2
