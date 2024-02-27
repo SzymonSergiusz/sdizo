@@ -44,7 +44,7 @@ Projekt został podzielony na dwa główne moduły:
 - Algorytm Dijkstry
 - Algorytm Bellmana-Forda
 
-## Literatura Wykorzystana do Implementacji:
+## Literatura wykorzystana do implementacji:
 
 - "Wprowadzenie do algorytmów" - Thomas H. Cormen
 - "Algorytmy" - Robert Sedgewick
