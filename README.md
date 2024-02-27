@@ -1,18 +1,51 @@
-# sdizo
-Projekt ze struktur danych i złożoności obliczeniowej
-Celem projektu było zrozumienie i opracowanie implementacji algorytmów o skończonej złożoności obliczeniowej.
-Opracowane struktury i algorytmy zostały napisałe w C++. Do testowania został użyty framework XCTest oraz Objective-C. 
+# Projekt ze Strukturami Danych i Złożonością Obliczeniową
+Projekt ten stanowi kompleksowe podejście do struktur danych i algorytmów, z zastosowaniem różnych technik i podejść, co pozwala na lepsze zrozumienie złożoności obliczeniowej i skutecznego projektowania algorytmów.
+W ramach projektu opracowano struktury danych i algorytmy w języku C++. Testy zostały przeprowadzone przy użyciu frameworka XCTest oraz języka Objective-C.
 
-Projekt jest podzielony na dwa moduły:
-  - [sdizo1](https://github.com/SzymonSergiusz/sdizo1)
-  - [sdizo2](https://github.com/SzymonSergiusz/sdizo2)
+## Struktura Projektu
 
-Moduł sdizo1 zawiera:
-Implementacja tablicy - dodawanie/usuwanie na indeksie pierwszym, ostatnim i losowym
-Implementacja listy dwukierunkowej - dodawanie/usuwanie na indeksie pierwszym, ostatnim i losowym oraz przeszukiwanie listy
-Implementacja kopca - dodawanie do kopca, usuwanie korzenia i wyszukiwanie wartości
-Implementacja BST (Binary Search Tree) - dodawanie/usuwanie elementów oraz przeszukiwanie
+Projekt został podzielony na dwa główne moduły:
 
-Literatura wykorzystana do implementacji:
-Thomas H. Cormen Wprowadzenie do algorytmów
-Robert Sedgewick Algorytmy
+- [sdizo1](https://github.com/SzymonSergiusz/sdizo1)
+- [sdizo2](https://github.com/SzymonSergiusz/sdizo2)
+
+## Moduł sdizo1 zawiera implementacje:
+
+### Tablica
+- Dodawanie/usuwanie na indeksie pierwszym, ostatnim i losowym
+
+### Lista Dwukierunkowa
+- Dodawanie/usuwanie na indeksie pierwszym, ostatnim i losowym
+- Przeszukiwanie listy
+
+### Kopiec
+- Dodawanie do kopca
+- Usuwanie korzenia
+- Wyszukiwanie wartości
+
+### BST (Binary Search Tree)
+- Dodawanie/usuwanie elementów
+- Przeszukiwanie drzewa
+
+## Moduł sdizo2 zawiera:
+
+### Struktury
+
+- Macierz sąsiedztwa
+- Lista sąsiadów
+
+### Algorytmy
+
+#### Algorytmy MST
+- Algorytm Prima
+- Algorytm Kruskala
+
+#### Algorytmy wyszukiwania najkrótszej ścieżki
+- Algorytm Dijkstry
+- Algorytm Bellmana-Forda
+
+## Literatura Wykorzystana do Implementacji:
+
+- "Wprowadzenie do algorytmów" - Thomas H. Cormen
+- "Algorytmy" - Robert Sedgewick
+
